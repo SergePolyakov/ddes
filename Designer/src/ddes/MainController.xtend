@@ -1,0 +1,4 @@
+package ddes
+
+class MainController {
+}

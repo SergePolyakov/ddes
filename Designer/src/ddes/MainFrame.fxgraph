@@ -1,0 +1,6 @@
+package ddes
+
+import java.lang.*
+import javafx.scene.layout.VBox
+
+component MainFrame controlledby ddes.MainController{VBox}
